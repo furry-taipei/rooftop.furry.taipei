@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "nuxt3": "latest"
+  },
+  "dependencies": {
+    "@mdi/font": "^6.6.96",
+    "lottie-web": "^5.9.2",
+    "normalize.css": "^8.0.1"
+  }
+}
