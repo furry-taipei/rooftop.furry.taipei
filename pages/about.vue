@@ -10,6 +10,7 @@
       <div class="textBlock">於台灣某間頂加發跡，注重於關於獸的影音發展。</div>
 
       <div class="title">團隊成員</div>
+      <div class="textBlock">一群來自杯子蛋糕島的不知名獸士</div>
 
       <div class="cols">
         <div class="col-3 staff" v-for="staff in staffs" :key="staff.name">
@@ -108,6 +109,8 @@ export default {
           ],
         },
       ],
+      someoneSaid: [],
+      staffs: [],
     };
   },
 };

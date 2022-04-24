@@ -11,6 +11,6 @@
     "@nuxt/kit": "^3.0.0-rc.1",
     "lottie-web": "^5.9.2",
     "normalize.css": "^8.0.1",
-    "nuxt": "3.0.0-rc.1"
+    "nuxt": "^3.0.0-rc.1"
   }
 }
