@@ -20,7 +20,7 @@
           <div class="blockSubTitle">這邊是副標題或是簡介之類ㄉ</div>
         </div>
       </div>
-      <div class="block">
+      <div class="block mobile-reverse-flex">
         <div class="blockText">
           <div class="blockTitle">這是標題</div>
           <div class="blockSubTitle">這邊是副標題或是簡介之類ㄉ</div>
@@ -100,6 +100,9 @@ export default {};
 @media only screen and (max-width: 768px) {
   .block {
     flex-direction: column;
+  }
+  .mobile-reverse-flex {
+    flex-direction: column-reverse !important;
   }
   .blockMediaContainer {
     width: 100%;
