@@ -1,0 +1,66 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-034acf79.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/about.vue",
+      "pages/contact.vue",
+      "pages/index.vue",
+      "pages/works.vue",
+      "layouts/default.vue"
+    ],
+    "css": [
+      "entry.d531893b.css"
+    ],
+    "assets": [
+      "materialdesignicons-webfont.cc2974d0.eot",
+      "materialdesignicons-webfont.7815702d.woff2",
+      "materialdesignicons-webfont.55e1dbfb.woff",
+      "materialdesignicons-webfont.0356600d.ttf"
+    ]
+  },
+  "pages/about.vue": {
+    "file": "about-25169b3f.mjs",
+    "src": "pages/about.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/contact.vue": {
+    "file": "contact-922bf870.mjs",
+    "src": "pages/contact.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-45642882.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/works.vue": {
+    "file": "works-c45ff5b2.mjs",
+    "src": "pages/works.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "layouts/default.vue": {
+    "file": "default-74d82dd2.mjs",
+    "src": "layouts/default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "default.bd2b29f8.css"
+    ]
+  }
+}
