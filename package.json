@@ -5,12 +5,12 @@
     "build": "nuxi build",
     "start": "node .output/server/index.mjs"
   },
-  "devDependencies": {
-    "nuxt3": "latest"
-  },
+  "devDependencies": {},
   "dependencies": {
     "@mdi/font": "^6.6.96",
+    "@nuxt/kit": "^3.0.0-rc.1",
     "lottie-web": "^5.9.2",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "nuxt": "3.0.0-rc.1"
   }
 }
