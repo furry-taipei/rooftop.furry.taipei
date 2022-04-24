@@ -72,20 +72,20 @@ export default {
           description: "Krescent The Dragon🐲",
           position: "Co-founder",
           img: "https://pbs.twimg.com/profile_images/1505233581660327937/SoSSjuDL_400x400.jpg",
-          links: [{ type: "website", url: "https://mptw.me", icon: "earth" }],
+          links: [{ type: "website", url: "https://zfnkc.tw", icon: "earth" }],
         },
         {
           name: "山松",
           description: "只是一個有些松鼠特色的狐狸！",
           position: "Co-founder, 打雜工",
           img: "https://gravatar.com/avatar/029574036459a099c980ace8237e4bbb?s=800&d=robohash&r=x",
-          links: [{ type: "website", url: "https://zfnkc.tw", icon: "earth" }],
+          links: [{ type: "website", url: "https://mptw.me", icon: "earth" }],
         },
         {
           name: "Plumbercat",
           description: "會水電的山貓",
           position: "Co-founder, 打雜工",
-          img: "https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.6435-9/117560295_10216244517337994_1503606713000832713_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7dj2C7rXiwUAX9eOfn8&_nc_oc=AQlPsFacjcS4esQWIeiJcVe0hkEGTZjBd1m_hljtWrV5u9f9yJBrqR97L4pquDVUT88&_nc_ht=scontent.fkhh1-1.fna&oh=00_AT-ONrP9J151mDh52g2zbZ6NDHiYPGMLjMp1EOxagB1o6g&oe=62763852",
+          img: "https://avatars.plurk.com/3547399-big34812186.jpg",
           links: [
             {
               type: "website",
@@ -98,7 +98,7 @@ export default {
           name: "大助",
           description: "貓",
           position: "Co-founder",
-          img: "https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-1/274928406_5016469461754297_8172790035738826365_n.jpg?stp=c2.0.300.300a_dst-jpg_p320x320&_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_ohc=y3IbsXRn4UcAX-Z9YB9&_nc_ht=scontent.fkhh1-1.fna&oh=00_AT_E-h3DkEmd9glZLpg-eyj_mpj17MilP6U0RS6MibqQaA&oe=62570EC4",
+          img: "https://avatars.plurk.com/16317101-big47428639.jpg",
           links: [
             {
               type: "website",
