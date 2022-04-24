@@ -1,6 +1,6 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-9f4b417d.mjs",
+    "file": "entry-83d6646c.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -11,7 +11,7 @@
       "layouts/default.vue"
     ],
     "css": [
-      "entry.43f4537e.css"
+      "entry.d70fe65e.css"
     ],
     "assets": [
       "materialdesignicons-webfont.cc2974d0.eot",
@@ -21,7 +21,7 @@
     ]
   },
   "pages/about.vue": {
-    "file": "about-847ffe46.mjs",
+    "file": "about-ef192c4f.mjs",
     "src": "pages/about.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -29,7 +29,7 @@
     ]
   },
   "pages/contact.vue": {
-    "file": "contact-d8a7ff0d.mjs",
+    "file": "contact-0aaaffe2.mjs",
     "src": "pages/contact.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -37,7 +37,7 @@
     ]
   },
   "pages/index.vue": {
-    "file": "index-88776bf1.mjs",
+    "file": "index-2d8c95e7.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -45,7 +45,7 @@
     ]
   },
   "pages/works.vue": {
-    "file": "works-9bddcf0f.mjs",
+    "file": "works-27d791f3.mjs",
     "src": "pages/works.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -53,7 +53,7 @@
     ]
   },
   "layouts/default.vue": {
-    "file": "default-f6fecb0b.mjs",
+    "file": "default-4e785148.mjs",
     "src": "layouts/default.vue",
     "isDynamicEntry": true,
     "imports": [
