@@ -33,7 +33,7 @@ export default {
           name: "Furry TV 獸迷 TV",
           description: "提供關於獸的影音串流平台",
           img: "/images/works/tv.webp",
-          url: "https://furshion.furry.taipei/",
+          url: "https://tv.furry.taipei/",
         },
       ],
     };
